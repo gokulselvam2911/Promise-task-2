@@ -1,5 +1,7 @@
 # Promise-task-2
-# Dictionary Web Application
+# English Dictionary Web Application
+
+Web Application depolyed on netlify [English Dictionary Web Application](https://english-dictionary-webapp.netlify.app/)
 
 ## Overview
 
